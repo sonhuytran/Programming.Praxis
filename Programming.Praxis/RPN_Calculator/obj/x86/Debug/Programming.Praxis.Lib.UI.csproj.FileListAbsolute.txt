@@ -1,0 +1,13 @@
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\bin\Debug\RPN_Calculator.exe
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\bin\Debug\RPN_Calculator.pdb
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\bin\Debug\Programming.Praxis.Lib.dll
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\bin\Debug\Programming.Praxis.Lib.pdb
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\Programming.Praxis.Lib.UI.AboutRPNCalculator.resources
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\Programming.Praxis.Lib.UI.RPNCalculator.resources
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\Programming.Praxis.Lib.UI.Properties.Resources.resources
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\RPN_Calculator.exe
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\RPN_Calculator.pdb
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\RPN_Calculator\obj\x86\Debug\Programming.Praxis.Lib.UI.SieveOfEratosthenes.resources

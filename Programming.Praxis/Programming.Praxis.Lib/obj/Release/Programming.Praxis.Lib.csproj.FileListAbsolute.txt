@@ -1,0 +1,8 @@
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\obj\Release\Programming.Praxis.Lib.Properties.Resources.resources
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\obj\Release\GenerateResource.read.1.tlog
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\obj\Release\GenerateResource.write.1.tlog
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\bin\Release\Programming.Praxis.Lib.dll
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\bin\Release\Programming.Praxis.Lib.pdb
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\obj\Release\Programming.Praxis.Lib.dll
+C:\Users\mtpham\Documents\GitHub\Programming.Praxis\Programming.Praxis\Programming.Praxis.Lib\obj\Release\Programming.Praxis.Lib.pdb
